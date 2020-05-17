@@ -1,0 +1,1125 @@
+/*====================
+    EXTRA LARGE DEVICE
+=====================*/
+@media (min-width: 1200px) {}
+
+/*====================
+    LARGE DEVICE
+=====================*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    #about_part .about_pic {
+        height: 431px;
+    }
+
+    #about_part .about_text {
+        padding: 14px 0 0 23px;
+    }
+
+    #about_part .about_text .abt_icons {
+        right: 29px;
+    }
+
+    #about_part .about_text .btn::after {
+        width: 81%;
+        left: 147px;
+    }
+
+    #services_part .services_widget::before {
+        width: 167%;
+    }
+
+    #services_part .services_widget:hover::before {
+        left: -87px;
+    }
+
+    #counter_part .counter_overlay {
+        padding: 50px 0;
+    }
+
+    #resume_part .resume_widget2 p {
+        letter-spacing: 0;
+    }
+
+    #blog_part .card img {
+        transform: scale(1.2);
+    }
+
+    #blog_part .card img:hover {
+        transform: scale(1.1);
+    }
+
+    #hire_me {
+        padding: 80px 0;
+    }
+
+    #contact_part .contact_form form input {
+        width: 46%;
+    }
+
+    #contact_part .contact_form form textarea {
+        width: 99%;
+    }
+
+    #footer_area .footer_overlay {
+        padding: 80px 0;
+    }
+
+}
+
+/*====================
+     MEDIUM DEVICE
+=====================*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .nav_menu.sticky {
+        padding: 0;
+        height: 71px;
+    }
+
+    .navbar-nav {
+        background: #000000c2;
+        border-radius: 10px;
+        padding: 19px 22px 8px 22px;
+        margin: 4px 0;
+        border: 1px solid #cecece;
+    }
+
+    .navbar .navbar-nav .nav-item {
+        padding: 10px 0 16px 0;
+    }
+
+    .navbar .navbar-nav .nav-item .nav-link {
+        display: inline-block;
+    }
+
+
+
+    #about_part {
+        padding: 18px 0 90px 0;
+    }
+
+    #about_part .about_pic {
+        height: 435px;
+        border: 1px dotted darkgray;
+    }
+
+    #about_part .about_pic img {
+        width: 100%;
+        top: 49px;
+        left: 0;
+        border: 3px double #26449b;
+    }
+
+    #about_part .about_text {
+        padding: 67px 0 0 8px;
+    }
+
+    #about_part .about_text h4 {
+        padding-bottom: 8px;
+    }
+
+    #about_part .about_text h2 {
+        padding-bottom: 6px;
+    }
+
+    #about_part .about_text .ab_p {
+        letter-spacing: 0px;
+        padding-bottom: 20px;
+        text-align: justify;
+        margin: 0 0 10px 0;
+    }
+
+    #about_part .about_text .address h5 {
+        font-size: 16px;
+    }
+
+    #about_part .about_text .address a {
+        font-size: 15px;
+    }
+
+    #about_part .about_text .address span {
+        font-size: 15px;
+    }
+
+    #about_part .about_text .abt_icons {
+        right: -5px;
+    }
+
+    #about_part .about_text .btn::after {
+        width: 39%;
+        left: 143px;
+    }
+
+    #about_part .about_text .abt_icons a {
+        height: 31px;
+        width: 31px;
+        line-height: 31px;
+        margin-right: 2px;
+    }
+
+    .rps991 {
+        margin-top: 45px;
+    }
+
+    #services_part {
+        padding: 90px 0;
+    }
+
+    #services_part .services_widget {
+        margin-bottom: 45px;
+    }
+
+    #services_part .services_widget:hover::before {
+        left: -92px;
+    }
+
+    #services_part .services_plan .svsplan_widget {
+        padding: 45px 0 30px 0;
+    }
+
+    #services_part .services_plan .svsplan_widget h4 {
+        padding-bottom: 10px;
+    }
+
+    #services_part .services_plan .svsplan_widget h6 {
+        padding-bottom: 10px;
+    }
+
+    #services_part .services_plan .svsplan_widget p {
+        line-height: 13px;
+    }
+
+    #services_part .services_plan .svsplan_widget a {
+        padding: 5px 25px;
+        margin-top: 15px;
+    }
+
+    #counter_part .counter_overlay .counter_widget a {
+        font-size: 28px;
+        padding-bottom: 6px;
+        margin-bottom: 6px;
+    }
+
+    #counter_part .counter_overlay {
+        padding: 50px 0;
+    }
+
+    #counter_part .counter_overlay .counter_widget h4 {
+        font-size: 35px;
+    }
+
+    #counter_part .counter_overlay .counter_widget p {
+        font-size: 15px;
+    }
+
+    #resume_part {
+        padding: 90px 0;
+    }
+
+    #resume_part .resume_widget .rmwdt_box::before {
+        width: 10%;
+        left: -6px;
+    }
+
+    #resume_part .resume_widget2 {
+        padding-top: 90px;
+    }
+
+    #resume_part .resume_widget2 .resume_widget2text h3 {
+        line-height: 30px;
+    }
+
+    #resume_part .resume_widget2 p {
+        letter-spacing: 0;
+        line-height: 24px;
+    }
+
+    #resume_part .resume_widget2 .progress_part .progressline h5 {
+        padding-bottom: 12px;
+    }
+
+    #resume_part .resume_widget2 .progress_part .progressline .progressbar {
+        margin-bottom: 19px;
+    }
+
+    #portfolio_part {
+        padding: 90px 0;
+    }
+
+    #blog_part {
+        padding: 90px 0 80px 0;
+    }
+
+    #blog_part .card {
+        width: 100%;
+    }
+
+    #blog_part .card .card-body {
+        padding: 16px 0 0 0;
+    }
+
+    #blog_part .card .card-body p {
+        font-size: 13px;
+        padding-top: 2px;
+    }
+
+    #blog_part .card .date {
+        padding: 6px 0 0 0;
+    }
+
+    #blog_part .card .date a {
+        font-size: 13px;
+    }
+
+    #blog_part .card .date:hover a::before {
+        left: 64px;
+    }
+
+    #blog_part .card .date p {
+        font-size: 11px;
+        padding-top: 5px;
+    }
+
+    #blog_part .card img {
+        transform: scale(1.2);
+    }
+
+    #blog_part .card img:hover {
+        transform: scale(1.1);
+    }
+
+    #testimonials .testimonials_overlay {
+        padding: 90px 0;
+    }
+
+    #testimonials .testimonials_overlay .testimonials_wrapper .testimonials_text img {
+        width: 18%;
+    }
+
+    #testimonials .testimonials_overlay .testimonials_wrapper .testimonials_text h2 {
+        padding-bottom: 35px;
+    }
+
+    #testimonials .testimonials_overlay .testimonials_wrapper .testimonials_text p {
+        padding: 20px 120px 6px 120px;
+    }
+
+    #hire_me {
+        padding: 70px 0;
+    }
+
+    #contact_part {
+        padding: 90px 0;
+    }
+
+    #contact_part .contact_icon i {
+        font-size: 28px;
+        padding-bottom: 37px;
+    }
+
+    #contact_part .contact_text h5 {
+        font-weight: 400;
+    }
+
+    #contact_part .contact_form {
+        padding-top: 5px;
+    }
+
+    #contact_part .contact_form h4 {
+        padding-bottom: 120px;
+        color: #071D58;
+    }
+
+    #contact_part .contact_form form input {
+        width: 45%;
+    }
+
+    #contact_part .contact_form form textarea {
+        width: 99%;
+        margin-top: 24px;
+    }
+
+    #footer_area .footer_overlay {
+        padding: 80px 0;
+    }
+}
+
+/*====================
+    SMALL DEVICE
+=====================*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+
+    .nav_menu.sticky {
+        padding: 0;
+        height: 71px;
+    }
+
+    .navbar-nav {
+        background: #000000c2;
+        border-radius: 10px;
+        padding: 19px 22px 8px 22px;
+        margin: 4px 0;
+        border: 1px solid #cecece;
+    }
+
+    .navbar {
+        padding-top: 11px;
+    }
+
+    .navbar .navbar-nav .nav-item {
+        padding: 10px 0 16px 0;
+    }
+
+    .navbar .navbar-nav .nav-item .nav-link {
+        display: inline-block;
+    }
+
+    .banner_overlay .banner_text h1 {
+        font-size: 53px;
+    }
+
+    .banner_overlay .banner_text h6 {
+        font-size: 20px;
+    }
+
+    #about_part {
+        padding: 18px 0 90px 0;
+    }
+
+    #about_part .about_pic {
+        height: 586px;
+        border: 1px dotted darkgray;
+    }
+
+    #about_part .about_pic img {
+        width: 70%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    #about_part .about_text {
+        padding: 67px 0 0 8px;
+    }
+
+    #about_part .about_text h4 {
+        padding-bottom: 8px;
+    }
+
+    #about_part .about_text h2 {
+        padding-bottom: 6px;
+    }
+
+    #about_part .about_text .ab_p {
+        letter-spacing: 0px;
+        padding-bottom: 20px;
+        text-align: justify;
+        margin: 0 0 10px 0;
+    }
+
+    #about_part .about_text .address h5 {
+        font-size: 16px;
+    }
+
+    #about_part .about_text .address a {
+        font-size: 15px;
+    }
+
+    #about_part .about_text .address span {
+        font-size: 15px;
+    }
+
+    #about_part .about_text .abt_icons {
+        right: 55px;
+    }
+
+    #about_part .about_text .btn::after {
+        width: 72%;
+        left: 150px;
+    }
+
+    #about_part .about_text .abt_icons a {
+        height: 31px;
+        width: 31px;
+        line-height: 31px;
+        margin-right: 2px;
+    }
+
+
+    .rps991 {
+        margin-top: 45px;
+    }
+
+    #services_part {
+        padding: 90px 0;
+    }
+
+    #services_part .services_widget {
+        margin-bottom: 45px;
+    }
+
+    #services_part .services_widget::before {
+        left: -199px;
+    }
+
+    #services_part .services_widget:hover::before {
+        left: -102px;
+        width: 436px;
+    }
+
+    #services_part .services_plan .svsplan_widget {
+        padding: 32px 0 21px 0;
+    }
+
+    #services_part .services_widget a {
+        font-size: 50px;
+    }
+
+    #services_part .services_widget h5 {
+        font-size: 19px;
+    }
+
+
+    #services_part .services_plan .svsplan_widget span i {
+        font-size: 45px;
+        padding-bottom: 18px;
+    }
+
+    #services_part .services_plan .svsplan_widget:hover span i {
+        font-size: 50px;
+    }
+
+    #services_part .services_plan .svsplan_widget h4 {
+        padding-bottom: 7px;
+    }
+
+
+    #services_part .services_plan .svsplan_widget h6 {
+        padding-bottom: 10px;
+    }
+
+    #services_part .services_plan .svsplan_widget p {
+        line-height: 13px;
+        font-size: 15px;
+    }
+
+    #services_part .services_plan .svsplan_widget a {
+        padding: 5px 18px;
+        margin-top: 10px;
+        font-size: 13px;
+    }
+
+    #services_part .services_plan .svsplan_widget a:hover::before {
+        right: 5px !important;
+    }
+
+    #counter_part .counter_overlay .counter_widget a {
+        font-size: 28px;
+        padding-bottom: 6px;
+        margin-bottom: 6px;
+    }
+
+    #counter_part .counter_overlay {
+        padding: 30px 0;
+    }
+
+    #counter_part .counter_overlay .counter_widget h4 {
+        font-size: 33px;
+    }
+
+    #counter_part .counter_overlay .counter_widget p {
+        font-size: 14px;
+    }
+
+    #resume_part {
+        padding: 90px 0;
+    }
+
+    #resume_part .resume_widget .rmwdt_box::before {
+        width: 11%;
+        left: 0;
+    }
+
+    #resume_part .resume_widget2 {
+        padding-top: 40px;
+    }
+
+    #resume_part .resume_widget2 .resume_widget2text h3 {
+        line-height: 35px;
+    }
+
+    #resume_part .resume_widget2 p {
+        letter-spacing: 0;
+        line-height: 24px;
+    }
+
+    #resume_part .resume_widget2 .progress_part .progressline h5 {
+        padding-bottom: 12px;
+    }
+
+    #resume_part .resume_widget2 .progress_part .progressline .progressbar {
+        margin-bottom: 0;
+    }
+
+    #portfolio_part {
+        padding: 90px 0;
+    }
+
+    #blog_part {
+        padding: 90px 0 80px 0;
+    }
+
+    #blog_part .card {
+        width: 100%;
+    }
+
+    #blog_part .card .card-body {
+        padding: 16px 0 0 0;
+    }
+
+    #blog_part .card .card-body h5 {
+        font-size: 16px;
+        padding-top: 11px;
+    }
+
+    #blog_part .card .card-body p {
+        font-size: 13px;
+        padding-top: 2px;
+    }
+
+    #blog_part .card .date {
+        padding: 6px 0 0 0;
+    }
+
+    #blog_part .card .date a {
+        font-size: 13px;
+    }
+
+    #blog_part .card .date p {
+        font-size: 11px;
+        padding-top: 0;
+    }
+
+    #blog_part .card img {
+        transform: scale(1.3);
+    }
+
+    #blog_part .card img:hover {
+        transform: scale(1.2);
+    }
+
+    #blog_part .card .date a::before {
+        top: 2px;
+    }
+
+    #blog_part .card .date:hover a::before {
+        left: 65px;
+        opacity: 1;
+    }
+
+    #testimonials .testimonials_overlay {
+        padding: 90px 0;
+    }
+
+    #testimonials .testimonials_overlay .testimonials_wrapper .testimonials_text h2 {
+        font-size: 30px;
+        padding-bottom: 30px;
+    }
+
+    #testimonials .testimonials_overlay .testimonials_wrapper .testimonials_text img {
+        width: 25%;
+    }
+
+    #testimonials .testimonials_overlay .testimonials_wrapper .testimonials_text p {
+        padding: 15px 80px 6px 80px;
+    }
+
+    #hire_me {
+        padding: 60px 0;
+    }
+
+    #contact_part {
+        padding: 90px 0;
+    }
+
+    #contact_part .contact_form h4 {
+        padding-bottom: 88px;
+    }
+
+    #contact_part .contact_icon {
+        border-right: 1px solid #81909F;
+    }
+
+    #contact_part .contact_icon i {
+        font-size: 28px;
+        padding-bottom: 36px;
+    }
+
+    #contact_part .contact_form {
+        padding-top: 2px;
+    }
+
+    #contact_part .contact_form h4 {
+        text-transform: uppercase;
+        color: #071D58;
+    }
+
+    #contact_part .contact_text h5 {
+        font-weight: 400;
+    }
+
+    #contact_part .contact_form form input {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 24px;
+    }
+
+    #contact_part .contact_form form textarea {
+        width: 100%;
+        margin-top: 0;
+        height: 106px;
+        padding: 7px 10px 0 10px;
+    }
+
+    #footer_area .footer_overlay {
+        padding: 80px 0;
+    }
+
+    #footer_area .copyright p {
+        font-size: 13px;
+        letter-spacing: 0;
+    }
+
+}
+
+/*====================
+   EXTRA SMALL DEVICE
+=====================*/
+@media (max-width: 575.98px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .nav_menu.sticky {
+        padding: 0 11px;
+        height: 62px;
+    }
+
+    .navbar-nav {
+        background: #000000c2;
+        border-radius: 10px;
+        padding: 19px 22px 8px 22px;
+        margin: 4px 0;
+        border: 1px solid #cecece;
+    }
+
+    .navbar {
+        padding-top: 11px;
+    }
+
+    .navbar .navbar-toggler {
+        padding: 0 0;
+    }
+
+    .navbar .navbar-nav .nav-item {
+        padding: 10px 0 16px 0;
+    }
+
+    .navbar .navbar-nav .nav-item .nav-link {
+        display: inline-block;
+    }
+
+    .banner_overlay .banner_text h1 {
+        font-size: 53px;
+    }
+
+    .banner_overlay .banner_text h6 {
+        font-size: 20px;
+    }
+
+    .arrow {
+        top: 150%;
+    }
+
+    #about_part {
+        padding: 60px 0 60px 0;
+    }
+
+    #about_part .about_pic {
+        height: auto;
+        border: 1px dotted darkgray;
+        margin-top: 0;
+    }
+
+    #about_part .about_pic img {
+        width: 80%;
+        transform: translate(-50%);
+        margin: 11% 50%;
+        position: inherit;
+    }
+
+    #about_part .about_text {
+        padding: 50px 0 0 8px;
+    }
+
+    #about_part .about_text h4 {
+        padding-bottom: 8px;
+    }
+
+    #about_part .about_text h2 {
+        padding-bottom: 6px;
+        font-size: 25px;
+    }
+
+    #about_part .about_text .ab_p {
+        letter-spacing: 0px;
+        padding-bottom: 20px;
+        text-align: justify;
+        margin: 0 0 10px 0;
+    }
+
+    #about_part .about_text .address h5 {
+        font-size: 15px;
+    }
+
+    #about_part .about_text .address a {
+        font-size: 13px;
+        padding: 0;
+    }
+
+    #about_part .about_text .address span {
+        font-size: 14px;
+        padding: 0;
+    }
+
+    #about_part .about_text .address {
+        position: relative;
+    }
+
+    #about_part .about_text .address .abt_nm {
+        position: absolute;
+        right: 26px;
+    }
+
+    #about_part .about_text .abt_icons {
+        right: 0;
+        bottom: 1px;
+    }
+
+    #about_part .about_text .btn {
+        padding: 4px 14px;
+        border-radius: 5px;
+        font-size: 15px;
+        overflow: hidden;
+    }
+
+    #about_part .about_text .btn::after {
+        width: 0;
+    }
+
+    #about_part .about_text .btn:hover::before {
+        right: 0 !important;
+    }
+
+    #about_part .about_text .abt_icons a {
+        height: 28px;
+        width: 28px;
+        line-height: 28px;
+        margin-right: 0;
+        font-size: 14px;
+        border-radius: 6px;
+    }
+
+    #services_part {
+        padding: 60px 0 15px 0;
+    }
+
+    .lftline h3 {
+        top: -18px;
+        left: 0;
+        font-size: 83px;
+    }
+
+    #services_part .services_widget {
+        margin-bottom: 45px;
+        text-align: center;
+    }
+
+    #services_part .services_widget::before {
+        width: 100%;
+        left: 0;
+        clip-path: none;
+    }
+
+    #services_part .services_widget:hover::before {
+        left: 0;
+        width: 0;
+    }
+
+    #services_part .services_plan .svsplan_widget {
+        padding: 32px 0 21px 0;
+        margin-bottom: 45px;
+    }
+
+    #services_part .services_widget a {
+        font-size: 50px;
+        padding: 18px 0 4px 0;
+    }
+
+    #services_part .services_widget h5 {
+        font-size: 19px;
+        padding: 0;
+    }
+
+    #services_part .services_widget p {
+        padding: 0 6px;
+    }
+
+    #services_part .services_plan .svsplan_widget span i {
+        font-size: 45px;
+        padding-bottom: 18px;
+    }
+
+    #services_part .services_plan .svsplan_widget h4 {
+        padding-bottom: 7px;
+    }
+
+
+    #services_part .services_plan .svsplan_widget h6 {
+        padding-bottom: 10px;
+    }
+
+    #services_part .services_plan .svsplan_widget p {
+        line-height: 13px;
+        font-size: 15px;
+    }
+
+    #services_part .services_plan .svsplan_widget a {
+        padding: 5px 25px;
+        margin-top: 10px;
+        font-size: 15px;
+    }
+
+    #counter_part .counter_overlay .counter_widget a {
+        font-size: 28px;
+        padding-bottom: 6px;
+        margin-bottom: 6px;
+    }
+
+    #counter_part .counter_overlay {
+        padding: 50px 0 38px 0;
+    }
+
+    #counter_part .counter_overlay .counter_widget h4 {
+        font-size: 33px;
+    }
+
+    #counter_part .counter_overlay .counter_widget p {
+        font-size: 14px;
+    }
+
+    .title_text h4 {
+        font-size: 21px;
+    }
+
+    .rhtline h3 {
+        top: -18px;
+        right: 0;
+        font-size: 83px;
+    }
+
+    #resume_part {
+        padding: 60px 0;
+    }
+
+    #resume_part .resume_widget .rmwdt_box::before {
+        width: 8%;
+        left: -5px;
+    }
+
+    #resume_part .resume_widget2 {
+        padding-top: 40px;
+    }
+
+    #resume_part .resume_widget2 .resume_widget2text h3 {
+        line-height: 35px;
+    }
+
+    #resume_part .resume_widget2 p {
+        letter-spacing: 0;
+        line-height: 24px;
+    }
+
+    #resume_part .resume_widget2 .progress_part .progressline h5 {
+        padding-bottom: 12px;
+    }
+
+    #resume_part .resume_widget2 .progress_part .progressline .progressbar {
+        margin-bottom: 0;
+    }
+
+    #portfolio_part {
+        padding: 60px 0;
+    }
+
+    #portfolio_part .ptfo_button button {
+        padding: 2px 2px;
+        font-size: 14px;
+        margin: 26px 0 43px 0;
+    }
+
+    #portfolio_part .ptfo_widget .ptfo_overlay .port_self h6 {
+        font-weight: 400;
+        font-size: 14px;
+    }
+
+    #portfolio_part .ptfo_widget .ptfo_overlay:hover .seach {
+        top: 53%;
+    }
+
+    #portfolio_part .ptfo_widget .ptfo_overlay .seach a {
+        box-shadow: 0 0 11px 1px #b1d2bf;
+        height: 30px;
+        width: 30px;
+        line-height: 31px;
+        font-size: 15px;
+    }
+
+    #blog_part {
+        padding: 60px 0 50px 0;
+    }
+
+    #blog_part .card {
+        width: 100%;
+    }
+
+    #blog_part .card .card-body {
+        padding: 16px 0 0 0;
+    }
+
+    #blog_part .card .card-body h5 {
+        font-size: 16px;
+        padding-top: 13px;
+    }
+
+    #blog_part .card .card-body p {
+        font-size: 13px;
+        padding-top: 2px;
+    }
+
+    #blog_part .card .date {
+        padding: 6px 0 0 0;
+    }
+
+    #blog_part .card .date a {
+        font-size: 13px;
+    }
+
+    #blog_part .card .date p {
+        font-size: 12px;
+        padding-top: 3px;
+    }
+
+    #blog_part .card img {
+        transform: scale(1.3);
+    }
+
+    #blog_part .card img:hover {
+        transform: scale(1.2);
+    }
+
+    #blog_part .card .date a::before {
+        top: 2px;
+    }
+
+    #blog_part .card .date:hover a::before {
+        left: 64px;
+        opacity: 1;
+    }
+
+    #testimonials .testimonials_overlay {
+        padding: 60px 0;
+    }
+
+    #testimonials .testimonials_overlay .testimonials_wrapper .testimonials_text h2 {
+        font-size: 30px;
+        padding-bottom: 30px;
+    }
+
+    #testimonials .testimonials_overlay .testimonials_wrapper .testimonials_text img {
+        width: 35%;
+    }
+
+    #testimonials .testimonials_overlay .testimonials_wrapper .testimonials_text p {
+        padding: 15px 15px 6px 15px;
+        text-align: justify;
+    }
+
+    #hire_me {
+        padding: 60px 0;
+    }
+
+    #hire_me p {
+        padding-top: 12px;
+    }
+
+    #contact_part {
+        padding: 60px 0;
+    }
+
+
+    #contact_part .contact_icon {
+        border-right: 0;
+        padding-left: 16px;
+    }
+
+    #contact_part .contact_icon i {
+        font-size: 30px;
+        padding-bottom: 36px;
+    }
+
+    #contact_part .contact_form {
+        padding-top: 2px;
+    }
+
+    #contact_part .contact_form h4 {
+        text-transform: uppercase;
+        color: #071D58;
+        padding-bottom: 35px;
+        padding-top: 25px;
+    }
+
+    #contact_part .contact_text h5 {
+        font-weight: 400;
+    }
+
+    #contact_part .contact_form form input {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 24px;
+    }
+
+    #contact_part .contact_form form textarea {
+        width: 100%;
+        margin-top: 0;
+        height: 106px;
+        padding: 7px 10px 0 10px;
+    }
+
+    #footer_area .footer_overlay {
+        padding: 80px 0;
+    }
+
+    #footer_area .socail a {
+        margin: 0 9px;
+        letter-spacing: 0;
+    }
+
+    #footer_area .copyright p {
+        font-size: 13px;
+        letter-spacing: 0;
+    }
+}

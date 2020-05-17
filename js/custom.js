@@ -102,13 +102,7 @@ $(function () {
         loop: true
     });
 
-
-    //====  water ripples js ====/
-    $('#banner_part').ripples({
-        dropRadius: 5,
-        perturbance0: 0.01,
-    });
-
+ 
 
 
     //====  venobox start ====// 

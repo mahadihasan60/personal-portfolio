@@ -106,7 +106,7 @@ $(function () {
     //====  water ripples js ====/
     $('#banner_part').ripples({
         dropRadius: 10,
-        perturbance0: 0.3,
+        perturbance0: 0.01,
     });
 
 
